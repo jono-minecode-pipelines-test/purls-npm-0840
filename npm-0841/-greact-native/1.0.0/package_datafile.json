@@ -1,0 +1,51 @@
+{
+    "name": "-greact-native",
+    "version": "1.0.0",
+    "description": "@satoki00",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "postinstall": "node index.js"
+    },
+    "keywords": [
+        "hack"
+    ],
+    "author": {
+        "name": "Satoki",
+        "email": "t.satoki111@gmail.com",
+        "url": "https://github.com/satoki"
+    },
+    "license": "ISC",
+    "_id": "-greact-native@1.0.0",
+    "_nodeVersion": "21.1.0",
+    "_npmVersion": "10.2.0",
+    "dist": {
+        "integrity": "sha512-wEPty88oIIUIt4MhknpvHXfXhH0Q8/a2TpHcIbad6hTHpM+FTuv2+wrC09S8alLgBgc2m2AhUeRxZlAeqzReTA==",
+        "shasum": "135e494111c876bd2271bd4c8e8f5ec42c5e1636",
+        "tarball": "https://registry.npmjs.org/-greact-native/-/-greact-native-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 685,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHxNE9T+AxQu6SGVAHZSu8ZGy+nE9qwdvvWRcsCdhha2AiEA05q9o7BqcsCq7s82bXXoN5SB72VHS8FWZkecpwopN+g="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "satoki00",
+        "email": "t.satoki111@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "satoki00",
+            "email": "t.satoki111@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-greact-native_1.0.0_1721378292652_0.10611914696223135"
+    },
+    "_hasShrinkwrap": false
+}
